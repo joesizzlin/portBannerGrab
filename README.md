@@ -5,4 +5,4 @@ The banner is the information that is sent back by a server when a connection is
 
 portBannerGrab.py is heavily commented for more detail. 
 
-Feel free to comment and contribue as needed.
+Feel free to comment and contribute as needed.
